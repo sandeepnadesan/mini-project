@@ -47,3 +47,4 @@ Ensure you have the following installed on your system:
 | `/api/tasks`      | GET    | Get all tasks               |
 | `/api/tasks`      | POST   | Create a new task           |
 
+![layout](../LAYOUT.png)
